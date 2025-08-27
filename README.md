@@ -18,3 +18,13 @@
   </a>
 
 </div>
+
+
+
+---
+
+<p align="center">
+  <a href="https://github.com/AbdelkbirNA">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaAmg&theme=midnight-purple&layout=compact&langs_count=8" alt="Top Languages">
+    
+</p>
