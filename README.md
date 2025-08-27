@@ -1,6 +1,20 @@
-# <img width="100" height="100" alt="OAMG" src="https://github.com/user-attachments/assets/787ea1c1-9115-4a4f-b47b-dbc1fb353b25" /> OAMG
+<div align="center">
 
-**`(Developer/Designer/sportsman/Entrepreneur)`**
-\n
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=OsamaAmg\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=OsamaAmg\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+  <!-- Logo -->
+  <img width="100" height="100" alt="OAMG" src="https://github.com/user-attachments/assets/787ea1c1-9115-4a4f-b47b-dbc1fb353b25" />
+
+  <!-- Main Text -->
+  <h1>OAMG</h1>
+
+  <!-- Description / Keywords -->
+  <p><strong>(Developer/Designer/Sportsman/Entrepreneur)</strong></p>
+
+  <!-- GitHub Stats (Dark & Light) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAmg&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAmg&show_icons=true&theme=default" />
+  </a>
+
+</div>
